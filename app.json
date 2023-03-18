@@ -1,0 +1,12 @@
+{
+  "name": "OpaFanss-Bot",
+  "description": "invincible bots ",
+  "repository": "https://github.com/OpaFanss/",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
